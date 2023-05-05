@@ -7,9 +7,12 @@ package tp6.vistas;
 
 import tp6.negocio.Directorio;
 
-/**
- *
- * @author Usuario
+/*
+    ARDANAZ, ANDRÉS GONZALO
+    ANTUNEZ, MAXIMILIANO EZEQUIEL
+    CABAÑEZ, SERGIO
+    HUANCA, KEVIN
+    YAPURA, FABIAN EDUARDO
  */
 public class Menu extends javax.swing.JFrame {
 public static Directorio miDirectorio=new Directorio();
