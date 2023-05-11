@@ -9,8 +9,6 @@ import tp6.negocio.Directorio;
 
 /*
     ARDANAZ, ANDRÉS GONZALO
-    ANTUNEZ, MAXIMILIANO EZEQUIEL
-    CABAÑEZ, SERGIO
     HUANCA, KEVIN
     YAPURA, FABIAN EDUARDO
  */
